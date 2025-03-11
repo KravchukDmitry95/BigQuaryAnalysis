@@ -1,5 +1,6 @@
 # BigQuaryAnalysis
 Data analysis project using BigQuary and Google Analystics data
+
 📌This project was carried out to prepare data for Google BigQuery and further use in BI systems. The main goal was to get an aggregate table for analyzing users, their interaction with the site, and conversions based on Google Analytics 4 (GA4) data.
 Preparing data for BI 
 - Get information about events, users, and sessions in GA4. 
